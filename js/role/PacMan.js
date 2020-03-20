@@ -1,0 +1,7 @@
+class PacMan{
+	constructor(game) {
+	    
+	}
+	
+	
+}
